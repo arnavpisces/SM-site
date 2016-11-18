@@ -1,0 +1,55 @@
+body {
+	background-color: DodgerBlue;
+	font-family: 'Lato' , sans-serif;
+	color: #fff;
+	margin: auto;
+}
+.heading h1{
+	font-size: 100px;
+	padding-bottom: 10px;
+}
+.heading #wel{
+	padding-top: 50px;
+	font-size: 25px;
+	word-spacing: 0.3em;
+}
+ .banner .heading {
+ 	margin: auto;
+ 	position: relative;
+ 	text-transform: uppercase;
+ 	padding-top: 200px;
+ }
+ .heading{
+ 	max-width:900px;
+ 	margin:0 auto;
+}
+
+.heading .btn{
+	border: solid;
+	font-family: 'Oswald',sans-serif;
+	background-color: #1c1c1c;
+  	color: #fff;
+  	font-size: 20px;
+  	letter-spacing: 0.01em;
+  	padding: 7px 20px;
+  	text-decoration: none;
+}
+.heading #space{
+	padding-top: 10px;
+}
+.heading h1{
+	border: solid;
+	margin: 100px ;
+	border-radius: 15px;
+	background-color: rgba(27,125,217,0.6);
+	color:rgba(28,30,32,1);
+	letter-spacing: 0.02em;
+}
+ .banner{
+ 	margin-top: 25px;
+ 	background: url("http://imgview.info/download/20160117/sky-tropics-sea-water-horizon-waves-ocean-1920x1200.jpg")no-repeat center center;
+ 	background-size: cover;
+ 	height: 900px;
+ 	text-align: center;
+ 
+ }
